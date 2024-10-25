@@ -20,7 +20,5 @@ while(i<len(arr)):
         j+=1
     if(m!=0):
         arr1[i]=arr[index]
-    else:
-        arr1[i]="_"
     i+=1
 print(arr1)
