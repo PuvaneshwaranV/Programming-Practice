@@ -17,7 +17,7 @@ class Result {
 
     public static List<Integer> missingNumbers(List<Integer> arr, List<Integer> brr) {
     // Write your code here
-        List<Integer> s=new ArrayList();
+        List<Integer> s=new ArrayList<>();
         Collections.sort(arr);
         Collections.sort(brr);
        
