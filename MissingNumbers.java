@@ -6,14 +6,7 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    /*
-     * Complete the 'missingNumbers' function below.
-     *
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts following parameters:
-     *  1. INTEGER_ARRAY arr
-     *  2. INTEGER_ARRAY brr
-     */
+    
 
     public static List<Integer> missingNumbers(List<Integer> arr, List<Integer> brr) {
     // Write your code here
