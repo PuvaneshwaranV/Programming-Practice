@@ -6,7 +6,7 @@ import static java.util.stream.Collectors.toList;
 
 class Result {
 
-    
+        
 
     public static List<Integer> missingNumbers(List<Integer> arr, List<Integer> brr) {
     // Write your code here
