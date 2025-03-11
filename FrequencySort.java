@@ -2,7 +2,7 @@ public class FrequencySort
 {
     public static void main(String[] args)
     {
-        int[] arr={4,2,3,5,4,1,3,4,8,2,3,0};
+        int[] arr={4,5,6,5,2,1,4,3,2,4};
         int[] unique=new int[arr.length];
         int[] count=new int[arr.length];
         for(int i=0;i<unique.length;i++)
